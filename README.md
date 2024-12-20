@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&theme=gruvbox_light&color=auto&height=300&section=header&text=Jomalang's%20GitHub-nl-&render&fontSize=90&desc=Philoshophy%20and%20Programming&descSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&theme=graywhite&color=auto&height=300&section=header&text=Jomalang's%20GitHub-nl-&render&fontSize=90&desc=Philoshophy%20and%20Programming&descSize=30&animation=fadeIn)
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+world!" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+world!" alt="Typing SVG" /></a>-->
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
