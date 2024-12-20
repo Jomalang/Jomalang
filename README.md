@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&theme=gruvbox&color=auto&height=300&section=header&text=Jomalang's%20GitHub-nl-&render&fontSize=90&desc=Philoshophy%20and%20Programming&descSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&color=auto&height=300&section=header&text=Jomalang's%20GitHub-nl-&render&fontSize=90&desc=Philoshophy%20and%20Programming&descSize=30&animation=fadeIn)
 
 
 
