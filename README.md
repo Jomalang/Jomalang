@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&color=auto&height=200&section=header&text=Jomalang's%20GitHub-nl-&render&fontSize=50&descSize=30&animation=fadeIn)
 
+<p>안녕하세요! 조현진입니다.</p>
 
 
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+world!" alt="Typing SVG" /></a>-->
